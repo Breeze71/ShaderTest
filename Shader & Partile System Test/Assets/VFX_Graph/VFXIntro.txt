@@ -1,0 +1,26 @@
+
+/* Initialize Particle */ 
+
+Set Position(Shape: Arc Cone) / 生成形狀 三角錐
+
+於左邊面板加上變數，可在 inspecter 調參數
+
+可將 set Velocity 於 inspecter 調成非 random
+
+
+/* Update Particle */
+
+Trigger Event Rate / 姑且是生成東西
+
+
+
+/* OutPut Particle Quad */
+
+不須 rendering ，可刪
+
+
+
+*** new Node / simple head and trails / 刪 head 將 trigger Event 拉去 trails / 每次生成都會有軌跡
+
+Initialize Particle Strip / Inherit Source LifeTime 繼承 Parents's LifeTime
+

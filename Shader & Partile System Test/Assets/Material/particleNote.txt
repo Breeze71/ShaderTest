@@ -1,0 +1,35 @@
+選用 random between two constants
+把 rain 變 child 就能跟隨玩家，過於偷雞
+
+start speed 初始移速
+start size 
+start color
+
+simulation space / world / 否則已經下落的與會跟著人跑，神秘
+
+/* Emission */
+
+    rate over time / 生成速度
+
+/* shape */
+
+    shape / 各種發射方向
+    rasius / 發射半徑
+
+/* Size over Lifetime */
+
+    大小變化曲線
+
+/* Collosion */ 
+
+    Type / World / 2D
+    Dampen = 0.5 / 黏度
+    Bounce = 0.5 / 彈性
+
+/* Renderer */
+
+    Strethed Billboard 拉伸模式? / 用speed scale 拉伸
+
+/* Texture Sheet Animation */
+
+    讓 material 的 Texture 可以按 animation 撥放

@@ -1,0 +1,7 @@
+Universal Render PipeLine/Particles/Lit(跟 shader 出的 material 同色)
+
+Unlit 不發光的(可自選顏色)
+
+Surface Type / Transparent 透明的 / Opaque 不透明
+
+additive = +
