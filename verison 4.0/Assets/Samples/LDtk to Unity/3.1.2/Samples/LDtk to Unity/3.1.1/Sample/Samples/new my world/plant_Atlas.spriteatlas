@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: plant_Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: -4624138193554316712, guid: e7fd3c532b7c97c47a3b698d451464f0, type: 3}
+    - {fileID: 3558141819697742569, guid: e7fd3c532b7c97c47a3b698d451464f0, type: 3}
+    - {fileID: -5002756484958101848, guid: e7fd3c532b7c97c47a3b698d451464f0, type: 3}
+    - {fileID: 6123318596832095305, guid: e7fd3c532b7c97c47a3b698d451464f0, type: 3}
+    - {fileID: -7034806259430421503, guid: e7fd3c532b7c97c47a3b698d451464f0, type: 3}
+    - {fileID: -5963745791729577000, guid: e7fd3c532b7c97c47a3b698d451464f0, type: 3}
+    - {fileID: -4307056199846051314, guid: e7fd3c532b7c97c47a3b698d451464f0, type: 3}
+    - {fileID: 1992308334262366295, guid: e7fd3c532b7c97c47a3b698d451464f0, type: 3}
+    - {fileID: 3021400907874196052, guid: e7fd3c532b7c97c47a3b698d451464f0, type: 3}
+    - {fileID: -8099899937788634050, guid: e7fd3c532b7c97c47a3b698d451464f0, type: 3}
+    - {fileID: 4297626509728453525, guid: e7fd3c532b7c97c47a3b698d451464f0, type: 3}
+    - {fileID: -2281992546204687204, guid: e7fd3c532b7c97c47a3b698d451464f0, type: 3}
+    - {fileID: 1528389372167315561, guid: e7fd3c532b7c97c47a3b698d451464f0, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 1528389372167315561, guid: e7fd3c532b7c97c47a3b698d451464f0, type: 3}
+  - {fileID: -7034806259430421503, guid: e7fd3c532b7c97c47a3b698d451464f0, type: 3}
+  - {fileID: 3021400907874196052, guid: e7fd3c532b7c97c47a3b698d451464f0, type: 3}
+  - {fileID: 3558141819697742569, guid: e7fd3c532b7c97c47a3b698d451464f0, type: 3}
+  - {fileID: 6123318596832095305, guid: e7fd3c532b7c97c47a3b698d451464f0, type: 3}
+  - {fileID: -8099899937788634050, guid: e7fd3c532b7c97c47a3b698d451464f0, type: 3}
+  - {fileID: 4297626509728453525, guid: e7fd3c532b7c97c47a3b698d451464f0, type: 3}
+  - {fileID: -4307056199846051314, guid: e7fd3c532b7c97c47a3b698d451464f0, type: 3}
+  - {fileID: -5002756484958101848, guid: e7fd3c532b7c97c47a3b698d451464f0, type: 3}
+  - {fileID: -2281992546204687204, guid: e7fd3c532b7c97c47a3b698d451464f0, type: 3}
+  - {fileID: 1992308334262366295, guid: e7fd3c532b7c97c47a3b698d451464f0, type: 3}
+  - {fileID: -5963745791729577000, guid: e7fd3c532b7c97c47a3b698d451464f0, type: 3}
+  - {fileID: -4624138193554316712, guid: e7fd3c532b7c97c47a3b698d451464f0, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - PLANTEBGM_80_136_16_16
+  - PLANTEBGM_32_120_16_16
+  - PLANTEBGM_64_88_16_16
+  - PLANTEBGM_16_136_16_16
+  - PLANTEBGM_32_104_16_16
+  - PLANTEBGM_64_104_16_16
+  - PLANTEBGM_80_104_16_16
+  - PLANTEBGM_48_120_16_16
+  - PLANTEBGM_32_88_16_16
+  - PLANTEBGM_80_120_16_16
+  - PLANTEBGM_48_136_16_16
+  - PLANTEBGM_48_104_16_16
+  - PLANTEBGM_16_120_16_16
+  m_RenderDataMap: {}
+  m_Tag: plant_Atlas
+  m_IsVariant: 0

@@ -1,0 +1,17 @@
+{
+	"maps": [
+		{ "fileName": "0001_World_Level_0.tmx", "x": 256, "y": 0 },
+		{ "fileName": "0002_World_Level_1.tmx", "x": 560, "y": 0 },
+		{ "fileName": "0003_World_Level_2.tmx", "x": 864, "y": 0 },
+		{ "fileName": "0004_World_Level_3.tmx", "x": 1648, "y": 8 },
+		{ "fileName": "0005_World_Level_4.tmx", "x": 1648, "y": 544 },
+		{ "fileName": "0006_World_Level_5.tmx", "x": 1952, "y": 8 },
+		{ "fileName": "0007_World_Level_6.tmx", "x": 1648, "y": 1112 },
+		{ "fileName": "0008_World_Level_7.tmx", "x": 2304, "y": 1112 },
+		{ "fileName": "0009_World_Level_8.tmx", "x": 2304, "y": 544 },
+		{ "fileName": "0010_World_Level_9.tmx", "x": 2304, "y": 16 },
+		{ "fileName": "0011_World_Level_10.tmx", "x": 2176, "y": -424 },
+		{ "fileName": "0012_World_Level_11.tmx", "x": -256, "y": -400 }
+	],
+	"type": "world"
+}
