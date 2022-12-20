@@ -13,12 +13,15 @@ scopes = {
 	"last_search.EE2249FF" = ""
 	"OpenInspectorPreview.EE2249FF" = "0"
 	"currentGroup.EE2249FF" = "all"
-	"last_search.E4EB812F" = "defa"
+	"last_search.E4EB812F" = ""
 	"OpenInspectorPreview.E4EB812F" = "0"
 	"currentGroup.E4EB812F" = "all"
 	"last_search.8C24D059" = "Shader"
 	"OpenInspectorPreview.8C24D059" = "0"
 	"currentGroup.8C24D059" = "all"
+	"last_search.BDE7F5D3" = ""
+	"OpenInspectorPreview.BDE7F5D3" = "0"
+	"currentGroup.BDE7F5D3" = "all"
 }
 providers = {
 	adb = {

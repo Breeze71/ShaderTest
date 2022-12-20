@@ -1,4 +1,3 @@
-using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
@@ -126,11 +125,11 @@ public class Player : MonoBehaviour
     }
     private void RotateToMouse()
     {
-        // Vector2 direction = (MousePos.GetMousePosition() - (Vector2)transform.position).normalized;
-        // float angle = Mathf.Atan2(direction.y , direction.x) * Mathf.Rad2Deg; // Math.Atan2 : y/x
+         Vector2 direction = (MousePos.GetMousePosition() - (Vector2)transform.position).normalized;
+         float angle = Mathf.Atan2(direction.y , direction.x) * Mathf.Rad2Deg; // Math.Atan2 : y/x
         
-        Vector2 direction = inputProvider.LaserDirection();     // Radians to degrees = 360 / 2 * pi
-        float angle = Mathf.Atan2(direction.y , direction.x) * Mathf.Rad2Deg;
+        //Vector2 direction = inputProvider.LaserDirection();     // Radians to degrees = 360 / 2 * pi
+        //float angle = Mathf.Atan2(direction.y , direction.x) * Mathf.Rad2Deg;
                                                                 // convert radian to degress
         rotation.eulerAngles = new Vector3(0 , 0 , angle);
         transform.rotation = rotation;

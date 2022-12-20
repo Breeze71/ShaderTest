@@ -103,7 +103,7 @@
                 {
                     "name": "",
                     "id": "9fe7fae2-e344-432c-abde-7bfe53b95cfd",
-                    "path": "<Keyboard>/space",
+                    "path": "<Mouse>/leftButton",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -124,17 +124,6 @@
                 },
                 {
                     "name": "",
-                    "id": "fb8b6fb5-2e83-4a4a-833e-de68aac70d0d",
-                    "path": "<Keyboard>/space",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Shoot",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
                     "id": "f37a5ff8-cdd6-40d0-a583-655171ecf5a2",
                     "path": "<Gamepad>/rightStick",
                     "interactions": "",
@@ -143,9 +132,37 @@
                     "action": "LaserDir",
                     "isComposite": false,
                     "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "1f5d5ffc-50b0-4709-ab10-c378a22135cd",
+                    "path": "<Mouse>/position",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "New control scheme",
+                    "action": "LaserDir",
+                    "isComposite": false,
+                    "isPartOfComposite": false
                 }
             ]
         }
     ],
-    "controlSchemes": []
+    "controlSchemes": [
+        {
+            "name": "New control scheme",
+            "bindingGroup": "New control scheme",
+            "devices": [
+                {
+                    "devicePath": "<AndroidGamepad>",
+                    "isOptional": false,
+                    "isOR": false
+                },
+                {
+                    "devicePath": "<Keyboard>",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        }
+    ]
 }

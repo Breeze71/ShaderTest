@@ -18,6 +18,8 @@ Trigger Event Rate / 姑且是生成東西
 
 不須 rendering ，可刪
 
+自己 blaender ，用 OutPut Particles mesh
+
 
 
 *** new Node / simple head and trails / 刪 head 將 trigger Event 拉去 trails / 每次生成都會有軌跡

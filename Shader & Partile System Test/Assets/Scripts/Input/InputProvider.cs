@@ -1,6 +1,7 @@
 using UnityEngine;
 using System;
 using UnityEngine.InputSystem;
+
 public class InputProvider
 {
     /* 實例化共享對象 */
